@@ -1,0 +1,113 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 Feb 2023 06:11:56 at https://foxiz.themeruby.com/tech/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://foxiz.themeruby.com/tech/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://foxiz.themeruby.com/tech/ -O1 "D:\ATN Group\berita_admin3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://foxiz.themeruby.com/tech/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:13:55	Error: 	"Connect Error" (-4) after 2 retries at link foxiz.themeruby.com/robots.txt (from https://foxiz.themeruby.com/tech/)
+06:13:55	Warning: 	Retry after error -4 (Connect Error) at link foxiz.themeruby.com/tech/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0 (from https://foxiz.themeruby.com/tech/)
+06:13:55	Warning: 	Retry after error -4 (Connect Error) at link foxiz.themeruby.com/tech/wp-content/themes/foxiz/assets/fonts/icons.ttf?v=1.6.3 (from https://foxiz.themeruby.com/tech/)
+06:19:41	Error: 	"Not Found" (404) at link https://foxiz.themeruby.com/tech/404-page (from https://foxiz.themeruby.com/tech/)
+06:20:49	Warning: 	Retry after error -4 (Connect Error) at link foxiz.themeruby.com/tech/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0 (from https://foxiz.themeruby.com/tech/)
+06:20:49	Warning: 	Retry after error -4 (Connect Error) at link foxiz.themeruby.com/tech/wp-content/themes/foxiz/assets/fonts/icons.ttf?v=1.6.3 (from https://foxiz.themeruby.com/tech/)
+06:20:49	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1814
+06:20:49	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1814 to https://foxiz.themeruby.com/tech/home-2/
+06:21:22	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1818
+06:21:22	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1818 to https://foxiz.themeruby.com/tech/home-3/
+06:21:22	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1822
+06:21:22	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1822 to https://foxiz.themeruby.com/tech/home-4/
+06:21:22	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1825
+06:21:22	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1825 to https://foxiz.themeruby.com/tech/home-5/
+06:21:37	Error: 	"Method Not Allowed" (405) at link https://foxiz.themeruby.com/tech/xmlrpc.php (from https://foxiz.themeruby.com/tech/corsair-hs80-rgb-wireless-gaming-headset-review/)
+06:21:37	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1592
+06:21:37	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1592 to https://foxiz.themeruby.com/tech/corsair-hs80-rgb-wireless-gaming-headset-review/
+06:21:38	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1512
+06:21:38	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1512 to https://foxiz.themeruby.com/tech/top-tech-trends-great-gadgets-to-help-you/
+06:22:00	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1514
+06:22:00	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1514 to https://foxiz.themeruby.com/tech/part-time-trading-on-forex-as-an-alternative-income/
+06:22:06	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1561
+06:22:06	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1561 to https://foxiz.themeruby.com/tech/top-10-best-portable-bluetooth-speakers-for-summer-fun/
+06:22:07	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1515
+06:22:07	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1515 to https://foxiz.themeruby.com/tech/apple-jul-announcement-what-a-refresh-for-macbook/
+06:22:08	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1517
+06:22:08	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1517 to https://foxiz.themeruby.com/tech/advantages-and-disadvantages-of-having-smartphone/
+06:22:24	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1599
+06:22:24	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1599 to https://foxiz.themeruby.com/tech/best-fujifilm-cameras-for-every-photographer/
+06:22:24	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1596
+06:22:24	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1596 to https://foxiz.themeruby.com/tech/canon-eos-5d-mark-iv-full-frame-digital-slr-camera/
+06:22:25	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1563
+06:22:25	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1563 to https://foxiz.themeruby.com/tech/seeking-suggestions-regarding-headsets-for-conference-interpreters/
+06:22:26	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1550
+06:22:26	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1550 to https://foxiz.themeruby.com/tech/portable-bluetooth-speakersthat-can-go-literally-anywhere/
+06:22:27	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1546
+06:22:27	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1546 to https://foxiz.themeruby.com/tech/should-i-replace-my-upright-vacuum-with-a-cleaning-robot/
+06:22:31	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1499
+06:22:31	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1499 to https://foxiz.themeruby.com/tech/heres-why-business-needs-a-mobile-friendly-website/
+06:22:34	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1508
+06:22:34	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1508 to https://foxiz.themeruby.com/tech/how-to-buy-a-best-smartwatch-or-fitness-tracker-right-now/
+06:22:35	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1519
+06:22:35	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1519 to https://foxiz.themeruby.com/tech/ai-chips-that-made-it-to-the-market-in-2022/
+06:22:36	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1511
+06:22:36	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1511 to https://foxiz.themeruby.com/tech/start-a-digital-marketing-website-for-your-service/
+06:22:37	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1510
+06:22:37	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1510 to https://foxiz.themeruby.com/tech/bluetooth-technology-work-in-tandem-for-indoor-positioning-system/
+06:22:37	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1520
+06:22:37	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1520 to https://foxiz.themeruby.com/tech/ways-to-play-music-using-your-amazon-echo/
+06:22:38	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1539
+06:22:38	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1539 to https://foxiz.themeruby.com/tech/top-rated-products-in-wireless-portable-bluetooth-speakers/
+06:22:39	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1565
+06:22:39	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1565 to https://foxiz.themeruby.com/tech/10-reasons-to-choose-playstation-5-as-your-next-console/
+06:22:40	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1567
+06:22:40	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1567 to https://foxiz.themeruby.com/tech/archt-audio-debuts-it-is-new-mini-wireless-speaker/
+06:22:40	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1555
+06:22:40	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1555 to https://foxiz.themeruby.com/tech/best-beaches-in-the-uk-for-the-perfect-sandy-getaway/
+06:22:41	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1557
+06:22:41	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1557 to https://foxiz.themeruby.com/tech/linkedin-launches-new-formats-for-live-events/
+06:22:42	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1559
+06:22:42	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1559 to https://foxiz.themeruby.com/tech/top-10-largest-hot-high-quality-earphone-handsfree/
+06:22:43	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1622
+06:22:43	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1622 to https://foxiz.themeruby.com/tech/the-samsung-galaxy-s21-ultra-5g-awarded-best-smartphone/
+06:22:44	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1620
+06:22:44	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1620 to https://foxiz.themeruby.com/tech/apples-iphone-13-the-best-value-buy-among-all-iphones/
+06:22:44	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1648
+06:22:44	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1648 to https://foxiz.themeruby.com/tech/apple-iphone-13-pro-battery-highly-efficient-device/
+06:22:45	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1651
+06:22:45	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1651 to https://foxiz.themeruby.com/tech/future-changes-shape-express-yourself-with-galaxy-z-flip/
+06:22:46	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1507
+06:22:46	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1507 to https://foxiz.themeruby.com/tech/catch-the-best-iphone-13-deals-plus-your-favorite-gadgets/
+06:22:47	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1516
+06:22:47	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1516 to https://foxiz.themeruby.com/tech/sw-tech-shows-the-future-of-next-gen-vr-with-prototype-headset/
+06:22:47	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1509
+06:22:47	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1509 to https://foxiz.themeruby.com/tech/5-ways-to-manage-your-spending-on-multiple-credit-cards/
+06:22:48	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1647
+06:22:48	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1647 to https://foxiz.themeruby.com/tech/iphone-13-mini-review-the-small-phone-thats-actually-good/
+06:22:57	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1481
+06:22:57	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1481 to https://foxiz.themeruby.com/tech/contact/
+06:23:09	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1237
+06:23:09	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1237 to https://foxiz.themeruby.com/tech/customize-interests/
+06:23:09	Error: 	"Bad Request" (400) at link https://foxiz.themeruby.com/tech/customize-interests/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='4' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpolyline points='0,18 12,6 24,18 '/%3E%3C/svg%3E" (from https://foxiz.themeruby.com/tech/customize-interests/)
+06:23:24	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1215
+06:23:24	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1215 to https://foxiz.themeruby.com/tech/my-bookmarks/
+06:23:26	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1518
+06:23:26	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1518 to https://foxiz.themeruby.com/tech/are-smartwatches-the-future-of-wearable-devices/
+06:23:38	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1570
+06:23:38	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1570 to https://foxiz.themeruby.com/tech/the-4-best-laptops-in-2021-for-work-general-use/
+06:23:38	Error: 	"Connect Error" (-4) after 2 retries at link foxiz.themeruby.com/tech/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0 (from https://foxiz.themeruby.com/tech/)
+06:23:38	Error: 	"Connect Error" (-4) after 2 retries at link foxiz.themeruby.com/tech/wp-content/themes/foxiz/assets/fonts/icons.ttf?v=1.6.3 (from https://foxiz.themeruby.com/tech/)
+06:23:38	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1653
+06:23:38	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1653 to https://foxiz.themeruby.com/tech/samsung-galaxy-s21-colors-every-shade-available/
+06:23:38	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1819
+06:23:38	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1819 to https://foxiz.themeruby.com/tech/how-tiktok-is-affecting-youth-positive-and-negative-effects/
+06:23:54	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/?p=1513
+06:23:54	Warning: 	File has moved from https://foxiz.themeruby.com/tech/?p=1513 to https://foxiz.themeruby.com/tech/choose-a-best-headphone-for-make-your-life-brighter/
+06:24:02	Error: 	"Bad Request" (400) at link https://foxiz.themeruby.com/tech/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='4' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpolyline points='0,18 12,6 24,18 '/%3E%3C/svg%3E" (from https://foxiz.themeruby.com/tech/customize-interests)
+06:24:05	Error: 	"Not Found" (404) at link https://foxiz.themeruby.com/tech/2/ (from https://foxiz.themeruby.com/tech/page/2/)
+06:24:05	Error: 	"Not Found" (404) at link https://foxiz.themeruby.com/tech/3/ (from https://foxiz.themeruby.com/tech/page/3/)
+06:24:05	Error: 	"Not Found" (404) at link https://foxiz.themeruby.com/tech/4/ (from https://foxiz.themeruby.com/tech/page/4/)
+06:24:05	Warning: 	Moved Permanently for https://foxiz.themeruby.com/tech/5/
+06:24:05	Warning: 	File has moved from https://foxiz.themeruby.com/tech/5/ to https://foxiz.themeruby.com/tech/5-ways-to-manage-your-spending-on-multiple-credit-cards/
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 9 seconds : 840 links scanned, 781 files written (123058636 bytes overall) [33746402 bytes received at 46291 bytes/sec], 111927670 bytes transferred using HTTP compression in 503 files, ratio 17%, 38.0 requests per connection
+(10 errors, 92 warnings, 0 messages)
